@@ -1,0 +1,16 @@
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\bin\Debug\C_Sharp_Random_Lig.exe.config
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\bin\Debug\C_Sharp_Random_Lig.exe
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\bin\Debug\C_Sharp_Random_Lig.pdb
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.csprojAssemblyReference.cache
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.Form1.resources
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.Form2.resources
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.Properties.Resources.resources
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.csproj.GenerateResource.cache
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.exe
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.pdb
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\bin\Debug\Interop.WMPLib.dll
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\Interop.WMPLib.dll
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eymen\source\repos\C_Sharp_Random_Lig\C_Sharp_Random_Lig\obj\Debug\C_Sharp_Random_Lig.csproj.ResolveComReference.cache

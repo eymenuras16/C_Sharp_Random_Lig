@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Random_Lig", "C_Sharp_Random_Lig\C_Sharp_Random_Lig.csproj", "{31897A71-8FED-45B3-8CC6-145A8A6FD256}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Futbol_Turnuva_Uygulaması_Setup", "Futbol_Turnuva_Uygulaması_Setup\Futbol_Turnuva_Uygulaması_Setup.vdproj", "{5E44EB42-6DF7-426A-9D40-79A90E5ED807}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Futbol Turnuva Uygulaması", "Futbol Turnuva Uygulaması\Futbol Turnuva Uygulaması.vdproj", "{2A06B76C-39C0-478E-A81B-3607B5163D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31897A71-8FED-45B3-8CC6-145A8A6FD256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31897A71-8FED-45B3-8CC6-145A8A6FD256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31897A71-8FED-45B3-8CC6-145A8A6FD256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31897A71-8FED-45B3-8CC6-145A8A6FD256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E44EB42-6DF7-426A-9D40-79A90E5ED807}.Debug|Any CPU.ActiveCfg = Debug
+		{5E44EB42-6DF7-426A-9D40-79A90E5ED807}.Release|Any CPU.ActiveCfg = Release
+		{2A06B76C-39C0-478E-A81B-3607B5163D6C}.Debug|Any CPU.ActiveCfg = Debug
+		{2A06B76C-39C0-478E-A81B-3607B5163D6C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46E704BA-B7CA-4FB1-B914-0F67D514DC11}
+	EndGlobalSection
+EndGlobal
